@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Max Musterman</h1>
+<h1 align="center">Hi 👋, I'm Moritz Baldauf</h1>
 <h3 align="center">Student at Vienna University of Economics</h3>
 
 - 🔭 I’m currently working on **Data Science and Machine Learning projects in Python**
