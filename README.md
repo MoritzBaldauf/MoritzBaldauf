@@ -4,6 +4,7 @@
 - 🔭 I’m currently working on **Data Science and Machine Learning projects in Python**
 
 <h3 align="left">Connect with me:</h3>
+https://www.linkedin.com/in/moritz-baldauf-06556b224/
 <p align="left">
 </p>
 
