@@ -4,7 +4,7 @@
 - I’m currently working on **Data Science and Machine Learning projects in Python and R**
 
 <h3 align="left">Connect with me:</h3>
-[https://www.linkedin.com/in/moritz-baldauf/]
+https://www.linkedin.com/in/moritz-baldauf/
 <p align="left">
 </p>
 
