@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Moritz Baldauf</h1>
-<h3 align="center">Student at Vienna University of Economics</h3>
+<h3 align="center">Master Student at NOVA IMS, Lisbon </h3>
 
-- 🔭 I’m currently working on **Data Science and Machine Learning projects in Python and R**
+- I’m currently working on **Data Science and Machine Learning projects in Python and R**
 
 <h3 align="left">Connect with me:</h3>
-https://www.linkedin.com/in/moritz-baldauf-06556b224/
+[https://www.linkedin.com/in/moritz-baldauf-06556b224/](https://www.linkedin.com/in/moritz-baldauf/)
 <p align="left">
 </p>
 
